@@ -1,0 +1,30 @@
+[
+  {
+    "deptName": "Graphic Design",
+    "deptImage": "/home/design.png",
+    "deptDesc": "The Graphic Design Department at QUES2 fosters creativity, visual communication, and design thinking. Through workshops, projects, and challenges, members learn to create impactful visuals, engaging UI/UX designs, and compelling digital content.",
+    "deptLink": "/departments/cp",
+    "bgColor": "#bc556f"
+  },
+  {
+    "deptName": "Dev & OS",
+    "deptImage": "/home/web.png",
+    "deptDesc": "The Development & Open Source Department at QUES2 fosters technical skills, development expertise, and open-source contributions. Through workshops, projects, and collaborative sessions, members learn to build web, app, and game development projects while contributing to open-source initiatives.",
+    "deptLink": "/departments/dev-os",
+    "bgColor": "#34073d"
+  },
+  {
+    "deptName": "AI/ML",
+    "deptImage": "/home/ai.png",
+    "deptDesc": "The Machine Learning Department at QUES2 is dedicated to exploring the vast field of artificial intelligence and machine learning. Through workshops, lectures, and practical sessions, this department equips members with the knowledge and tools required to tackle complex problems using machine learning algorithms.",
+    "deptLink": "/departments/ml",
+    "bgColor": "#0b3866"
+  },
+  {
+    "deptName": "Content Creation",
+    "deptImage": "/home/content.png",
+    "deptDesc": "The Content Creation Department at QUES2 is the voice of the club, focused on storytelling, creativity, and impactful communication. Through blogs, articles, videos, and social media, members refine their writing, design, and presentation skills while creating engaging content that showcases the club’s initiatives and achievements.",
+    "deptLink": "/departments/cyber-security",
+    "bgColor": "#8752a3"
+  }
+]
